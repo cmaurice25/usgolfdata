@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Operating System generated files
+.DS_Store
+
+# Scraped data - typically don't version large data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Environment variables (if you ever use a .env file for API keys, etc.)
+.env
